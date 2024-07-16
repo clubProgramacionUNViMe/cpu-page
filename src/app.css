@@ -1,0 +1,19 @@
+:root {
+  --color-1: #508D4E;
+  --color-2: #80AF81;
+  --color-3: #FAFAFA;
+  --bg-1: #D6EFD8;
+  --bg-2: #1A5319;
+}
+
+html,
+body {
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
